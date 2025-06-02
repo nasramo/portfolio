@@ -1,7 +1,9 @@
 #navbar {
   position: sticky;
-
+  top: 0;
+  overflow: hidden;
   background-color: #00f;
+  width: 100vw;
 }
 
 h1{
