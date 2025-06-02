@@ -1,5 +1,7 @@
 #navbar {
   position: sticky;
+  top: 0;
+  overflow: hidden;
   background-color: blue;
 }
 
